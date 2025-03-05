@@ -1,18 +1,3 @@
-<plan>
-<step>
-<tool>get-github-data</tool>
-<parameters>
-{
-"endpoint": "/repos/AadityaBajgain/YT-clone/contents/README.md",
-"endpointDescription": "get file contents",
-"repo": "AadityaBajgain/YT-clone",
-"task": "get current README content"
-}
-</parameters>
-</step>
-</plan>Here is the updated README.md content for your project:
-
----
 
 # YT-clone
 
@@ -73,4 +58,3 @@ This project is licensed under the MIT License.
 
 ---
 
-You can edit the [README.md](https://github.com/AadityaBajgain/YT-clone/edit/main/README.md) file directly in your repository.
